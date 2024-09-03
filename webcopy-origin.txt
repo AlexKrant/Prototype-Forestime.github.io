@@ -1,0 +1,300 @@
+Uri: https://code.jquery.com/jquery-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://maps.api.2gis.ru/2.0/loader.js
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\2.0\loader.js
+Content Type: application/javascript
+
+Uri: https://nnovgorod.poletvertolet.ru/
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\index.htm
+Content Type: text/html
+
+Uri: https://nnovgorod.poletvertolet.ru/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://nnovgorod.poletvertolet.ru/media/pic_folder/img/3_0ykuR8P.jpg.1290x860_q85_upscale.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\media\pic_folder\img\3_0ykuR8P.jpg.1290x860_q85_upscale.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/media/pic_folder/img/4.jpg.1290x860_q85_upscale.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\media\pic_folder\img\4.jpg.1290x860_q85_upscale.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/media/pic_folder/img/vert_nn3_6fImJAv.jpg.1290x860_q85_upscale.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\media\pic_folder\img\vert_nn3_6fImJAv.jpg.1290x860_q85_upscale.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/media/pic_folder/img/vert_nn5.jpg.1290x860_q85_upscale.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\media\pic_folder\img\vert_nn5.jpg.1290x860_q85_upscale.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/media/pic_folder/img/vert_nn6.jpg.1290x860_q85_upscale.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\media\pic_folder\img\vert_nn6.jpg.1290x860_q85_upscale.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/media/pic_folder/img/vert_z_2.jpg.1290x860_q85_upscale.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\media\pic_folder\img\vert_z_2.jpg.1290x860_q85_upscale.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/media/pic_folder/service/верт1_ZLw4MY8.jpg.1290x860_q85_upscale.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\media\pic_folder\service\верт1_ZLw4MY8.jpg.1290x860_q85_upscale.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/media/pic_folder/service/верт2з.jpg.1290x860_q85_upscale.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\media\pic_folder\service\верт2з.jpg.1290x860_q85_upscale.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/media/pic_folder/service/верт3.jpg.1290x860_q85_upscale.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\media\pic_folder\service\верт3.jpg.1290x860_q85_upscale.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/media/pic_folder/service/верт4.jpg.1290x860_q85_upscale.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\media\pic_folder\service\верт4.jpg.1290x860_q85_upscale.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/media/pic_folder/service/верт5.jpg.1290x860_q85_upscale.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\media\pic_folder\service\верт5.jpg.1290x860_q85_upscale.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/media/pic_folder/service/DSC_1776_CoQKN9S.jpg.1290x860_q85_upscale.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\media\pic_folder\service\DSC_1776_CoQKN9S.jpg.1290x860_q85_upscale.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/media/pic_folder/service/otvinta-1_lThNP2b.jpg.1290x860_q85_upscale.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\media\pic_folder\service\otvinta-1_lThNP2b.jpg.1290x860_q85_upscale.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/media/pic_folder/service/pexels-photo-263268_z3oJZna.jpeg.1290x860_q85_upscale.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\media\pic_folder\service\pexels-photo-263268_z3oJZna.jpeg.1290x860_q85_upscale.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/media/pic_folder/service/_Полёт_на_вертолете_01.jpg.1290x860_q85_upscale.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\media\pic_folder\service\_Полёт_на_вертолете_01.jpg.1290x860_q85_upscale.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/media/pic_folder/technics/верт.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\media\pic_folder\technics\верт.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/media/video/url/Полет на вертолете зима - Л1.mp4
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\media\video\url\Полет на вертолете зима - Л1.mp4
+Content Type: video/mp4
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/d3e54v103j8qbb.cloudfront.net/img/example-bg.png
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\d3e54v103j8qbb.cloudfront.net\img\example-bg.png
+Content Type: image/png
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\d3e54v103j8qbb.cloudfront.net\js\jquery-3.4.1.min.220afd743d.js
+Content Type: application/javascript
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/fancybox/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\fancybox\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/fancybox/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\fancybox\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/favicon/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/favicon/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\favicon\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/favicon/site.webmanifest
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\favicon\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e63039187938004439300b6_Ellipse-2.svg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e63039187938004439300b6_Ellipse-2.svg
+Content Type: image/svg+xml
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e63039187938009549300d1_Kastelov  Axiforma Book.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e63039187938009549300d1_Kastelov  Axiforma Book.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e6303918793800c029300da_Kastelov  Axiforma SemiBold.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e6303918793800c029300da_Kastelov  Axiforma SemiBold.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e6303918793800c649300c7_Kastelov  Axiforma Italic.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e6303918793800c649300c7_Kastelov  Axiforma Italic.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e630391879380126b9300e1_Kastelov  Axiforma Black.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e630391879380126b9300e1_Kastelov  Axiforma Black.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e6303918793801b999300c9_Kastelov  Axiforma Thin.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e6303918793801b999300c9_Kastelov  Axiforma Thin.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e6303918793801be29300bf_Kastelov  Axiforma Heavy Italic.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e6303918793801be29300bf_Kastelov  Axiforma Heavy Italic.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e6303918793801f009300cd_Kastelov  Axiforma Light.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e6303918793801f009300cd_Kastelov  Axiforma Light.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e63039187938022409300c4_Kastelov  Axiforma Medium.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e63039187938022409300c4_Kastelov  Axiforma Medium.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e63039187938026a29300f4_Ellipse-3.svg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e63039187938026a29300f4_Ellipse-3.svg
+Content Type: image/svg+xml
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e63039187938031899300ef_Ellipse-2.svg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e63039187938031899300ef_Ellipse-2.svg
+Content Type: image/svg+xml
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e6303918793803b5b9300de_Kastelov  Axiforma Heavy.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e6303918793803b5b9300de_Kastelov  Axiforma Heavy.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e6303918793804ab89300c2_Kastelov  Axiforma Medium Italic.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e6303918793804ab89300c2_Kastelov  Axiforma Medium Italic.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e6303918793804ec59300b2_Ellipse-1.svg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e6303918793804ec59300b2_Ellipse-1.svg
+Content Type: image/svg+xml
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e630391879380516b9300c8_circus-p-130x130q80.png
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e630391879380516b9300c8_circus-p-130x130q80.png
+Content Type: image/png
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e63039187938056019300d3_Kastelov  Axiforma Regular.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e63039187938056019300d3_Kastelov  Axiforma Regular.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e6303918793805c1f9300af_Ellipse-3.svg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e6303918793805c1f9300af_Ellipse-3.svg
+Content Type: image/svg+xml
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e6303918793805e009300d2_Kastelov  Axiforma Thin Italic.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e6303918793805e009300d2_Kastelov  Axiforma Thin Italic.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e63039187938073c69300f6_Rectangle20.svg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e63039187938073c69300f6_Rectangle20.svg
+Content Type: image/svg+xml
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e63039187938078c29300c6_Kastelov  Axiforma ExtraBold.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e63039187938078c29300c6_Kastelov  Axiforma ExtraBold.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e6303918793807a049300bd_Kastelov  Axiforma Black Italic.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e6303918793807a049300bd_Kastelov  Axiforma Black Italic.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e630391879380855a9300d7_Kastelov  Axiforma Book Italic.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e630391879380855a9300d7_Kastelov  Axiforma Book Italic.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e63039187938086a19300f0_Ellipse-5.svg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e63039187938086a19300f0_Ellipse-5.svg
+Content Type: image/svg+xml
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e63039187938090b99300f1_Ellipse.svg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e63039187938090b99300f1_Ellipse.svg
+Content Type: image/svg+xml
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e630391879380b0e79300d4_Kastelov  Axiforma SemiBold Italic.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e630391879380b0e79300d4_Kastelov  Axiforma SemiBold Italic.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e630391879380c2bd9300cf_Kastelov  Axiforma Bold.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e630391879380c2bd9300cf_Kastelov  Axiforma Bold.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e630391879380c5539300dd_Kastelov  Axiforma ExtraBold Italic.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e630391879380c5539300dd_Kastelov  Axiforma ExtraBold Italic.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e630391879380e0509300c3_Kastelov  Axiforma Bold Italic.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e630391879380e0509300c3_Kastelov  Axiforma Bold Italic.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e630391879380e2b49300c1_Kastelov  Axiforma Light Italic.otf
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e630391879380e2b49300c1_Kastelov  Axiforma Light Italic.otf
+Content Type: application/octet-stream
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e630391879380eede9300ee_Ellipse-1.svg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e630391879380eede9300ee_Ellipse-1.svg
+Content Type: image/svg+xml
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e630391879380eee99300f3_Ellipse-4.svg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e630391879380eee99300f3_Ellipse-4.svg
+Content Type: image/svg+xml
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e630391879380f35b9300b4_Ellipse.svg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e630391879380f35b9300b4_Ellipse.svg
+Content Type: image/svg+xml
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e638d7751beef6914c1222d_scale_1200.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e638d7751beef6914c1222d_scale_1200.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e645f01415f1ed0ea43a0e0_DSC_5576.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e645f01415f1ed0ea43a0e0_DSC_5576.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e64804c415f1e3af04431fd_5704b9933cbbf.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e64804c415f1e3af04431fd_5704b9933cbbf.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e648b58ba5f935074f2759e_487560_1000.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e648b58ba5f935074f2759e_487560_1000.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e649c70415f1e16f4449342_ef1bac3fd2.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e649c70415f1e16f4449342_ef1bac3fd2.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/5e64b9f668556a1a21389ff0_1837499-2196f32.svg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\5e64b9f668556a1a21389ff0_1837499-2196f32.svg
+Content Type: image/svg+xml
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/css/mike-25528e.webflow.de93fd089.css
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\css\mike-25528e.webflow.de93fd089.css
+Content Type: text/css
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/hero_s.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\hero_s.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/hero_w.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\hero_w.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/js/webflow.bd8b464e7.js
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\js\webflow.bd8b464e7.js
+Content Type: application/javascript
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/vid_s.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\vid_s.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/poletvertolet.ru/product_v1/uploads-ssl.webflow.com/5e630390b6815f2ad31f5dbe/vid_w.jpg
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\poletvertolet.ru\product_v1\uploads-ssl.webflow.com\5e630390b6815f2ad31f5dbe\vid_w.jpg
+Content Type: image/jpeg
+
+Uri: https://nnovgorod.poletvertolet.ru/static/local/snippets/Map/2gis/js/map.js
+File Name: C:\Downloaded Web Sites\nnovgorod.poletvertolet.ru\static\local\snippets\Map\2gis\js\map.js
+Content Type: application/javascript
+
